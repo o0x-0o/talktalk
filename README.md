@@ -1,2 +1,2 @@
 # talktalk
-Chat app.
+Blog application backend.
